@@ -1,0 +1,675 @@
+typeID,typeName,groupID,marketGroupID,BPtypeID,quantity,materialTypeID,matQty,materialTypeName,preBPtypeID
+11475,"R.A.M.- Armor/Hull Tech",332,1908,11873,100,34,556,Tritanium,NULL
+11475,"R.A.M.- Armor/Hull Tech",332,1908,11873,100,36,222,Mexallon,NULL
+11475,"R.A.M.- Armor/Hull Tech",332,1908,11873,100,38,36,Nocxium,NULL
+11475,"R.A.M.- Armor/Hull Tech",332,1908,11873,100,35,444,Pyerite,NULL
+11475,"R.A.M.- Armor/Hull Tech",332,1908,11873,100,37,82,Isogen,NULL
+11476,"R.A.M.- Ammunition Tech",332,1908,11872,100,36,222,Mexallon,NULL
+11476,"R.A.M.- Ammunition Tech",332,1908,11872,100,38,36,Nocxium,NULL
+11476,"R.A.M.- Ammunition Tech",332,1908,11872,100,35,444,Pyerite,NULL
+11476,"R.A.M.- Ammunition Tech",332,1908,11872,100,37,82,Isogen,NULL
+11476,"R.A.M.- Ammunition Tech",332,1908,11872,100,34,556,Tritanium,NULL
+11478,"R.A.M.- Starship Tech",332,1908,11890,100,35,444,Pyerite,NULL
+11478,"R.A.M.- Starship Tech",332,1908,11890,100,37,82,Isogen,NULL
+11478,"R.A.M.- Starship Tech",332,1908,11890,100,34,556,Tritanium,NULL
+11478,"R.A.M.- Starship Tech",332,1908,11890,100,36,222,Mexallon,NULL
+11478,"R.A.M.- Starship Tech",332,1908,11890,100,38,36,Nocxium,NULL
+11481,"R.A.M.- Robotics",332,1908,11887,100,34,556,Tritanium,NULL
+11481,"R.A.M.- Robotics",332,1908,11887,100,36,222,Mexallon,NULL
+11481,"R.A.M.- Robotics",332,1908,11887,100,38,36,Nocxium,NULL
+11481,"R.A.M.- Robotics",332,1908,11887,100,35,444,Pyerite,NULL
+11481,"R.A.M.- Robotics",332,1908,11887,100,37,82,Isogen,NULL
+11482,"R.A.M.- Energy Tech",332,1908,11859,100,36,222,Mexallon,NULL
+11482,"R.A.M.- Energy Tech",332,1908,11859,100,38,36,Nocxium,NULL
+11482,"R.A.M.- Energy Tech",332,1908,11859,100,35,444,Pyerite,NULL
+11482,"R.A.M.- Energy Tech",332,1908,11859,100,37,82,Isogen,NULL
+11482,"R.A.M.- Energy Tech",332,1908,11859,100,34,556,Tritanium,NULL
+11483,"R.A.M.- Electronics",332,1908,11870,100,35,444,Pyerite,NULL
+11483,"R.A.M.- Electronics",332,1908,11870,100,37,82,Isogen,NULL
+11483,"R.A.M.- Electronics",332,1908,11870,100,34,556,Tritanium,NULL
+11483,"R.A.M.- Electronics",332,1908,11870,100,36,222,Mexallon,NULL
+11483,"R.A.M.- Electronics",332,1908,11870,100,38,36,Nocxium,NULL
+11484,"R.A.M.- Shield Tech",332,1908,11889,100,34,556,Tritanium,NULL
+11484,"R.A.M.- Shield Tech",332,1908,11889,100,36,222,Mexallon,NULL
+11484,"R.A.M.- Shield Tech",332,1908,11889,100,38,36,Nocxium,NULL
+11484,"R.A.M.- Shield Tech",332,1908,11889,100,35,444,Pyerite,NULL
+11484,"R.A.M.- Shield Tech",332,1908,11889,100,37,82,Isogen,NULL
+11485,"R.A.M.- Cybernetics",332,1908,11860,100,38,36,Nocxium,NULL
+11485,"R.A.M.- Cybernetics",332,1908,11860,100,35,444,Pyerite,NULL
+11485,"R.A.M.- Cybernetics",332,1908,11860,100,37,82,Isogen,NULL
+11485,"R.A.M.- Cybernetics",332,1908,11860,100,34,556,Tritanium,NULL
+11485,"R.A.M.- Cybernetics",332,1908,11860,100,36,222,Mexallon,NULL
+11486,"R.A.M.- Weapon Tech",332,1908,11891,100,35,444,Pyerite,NULL
+11486,"R.A.M.- Weapon Tech",332,1908,11891,100,37,82,Isogen,NULL
+11486,"R.A.M.- Weapon Tech",332,1908,11891,100,34,556,Tritanium,NULL
+11486,"R.A.M.- Weapon Tech",332,1908,11891,100,36,222,Mexallon,NULL
+11486,"R.A.M.- Weapon Tech",332,1908,11891,100,38,36,Nocxium,NULL
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30002,1,"Fullerene Intercalated Sheets",30003
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30470,1,"Neurovisual Output Analyzer",30471
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30464,1,"Metallofullerene Plating",30465
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30474,1,"Nanowire Composites",30475
+29964,"Legion Defensive - Adaptive Augmenter",954,1126,30227,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30474,1,"Nanowire Composites",30475
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30002,1,"Fullerene Intercalated Sheets",30003
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30470,1,"Neurovisual Output Analyzer",30471
+29965,"Legion Defensive - Nanobot Injector",954,1126,30228,1,30464,1,"Metallofullerene Plating",30465
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30464,1,"Metallofullerene Plating",30465
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30474,1,"Nanowire Composites",30475
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30002,1,"Fullerene Intercalated Sheets",30003
+29966,"Legion Defensive - Augmented Plating",954,1126,30229,1,30470,1,"Neurovisual Output Analyzer",30471
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30464,1,"Metallofullerene Plating",30465
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30474,1,"Nanowire Composites",30475
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30002,1,"Fullerene Intercalated Sheets",30003
+29967,"Legion Defensive - Warfare Processor",954,1126,30230,1,30470,1,"Neurovisual Output Analyzer",30471
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30002,1,"Fullerene Intercalated Sheets",30003
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30470,1,"Neurovisual Output Analyzer",30471
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30464,1,"Metallofullerene Plating",30465
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30474,1,"Nanowire Composites",30475
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29969,"Tengu Defensive - Adaptive Shielding",954,1127,30232,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30002,1,"Fullerene Intercalated Sheets",30003
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30470,1,"Neurovisual Output Analyzer",30471
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30464,1,"Metallofullerene Plating",30465
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30474,1,"Nanowire Composites",30475
+29970,"Tengu Defensive - Amplification Node",954,1127,30233,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30002,1,"Fullerene Intercalated Sheets",30003
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30470,1,"Neurovisual Output Analyzer",30471
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30464,1,"Metallofullerene Plating",30465
+29971,"Tengu Defensive - Supplemental Screening",954,1127,30234,1,30474,1,"Nanowire Composites",30475
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30464,1,"Metallofullerene Plating",30465
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30474,1,"Nanowire Composites",30475
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30002,1,"Fullerene Intercalated Sheets",30003
+29972,"Tengu Defensive - Warfare Processor",954,1127,30235,1,30470,1,"Neurovisual Output Analyzer",30471
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30464,1,"Metallofullerene Plating",30465
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30474,1,"Nanowire Composites",30475
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30002,1,"Fullerene Intercalated Sheets",30003
+29974,"Loki Defensive - Adaptive Shielding",954,1128,30242,1,30470,1,"Neurovisual Output Analyzer",30471
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30002,1,"Fullerene Intercalated Sheets",30003
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30470,1,"Neurovisual Output Analyzer",30471
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30464,1,"Metallofullerene Plating",30465
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30474,1,"Nanowire Composites",30475
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29975,"Loki Defensive - Adaptive Augmenter",954,1128,30243,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30002,1,"Fullerene Intercalated Sheets",30003
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30470,1,"Neurovisual Output Analyzer",30471
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30464,1,"Metallofullerene Plating",30465
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30474,1,"Nanowire Composites",30475
+29976,"Loki Defensive - Amplification Node",954,1128,30244,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30002,1,"Fullerene Intercalated Sheets",30003
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30470,1,"Neurovisual Output Analyzer",30471
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30464,1,"Metallofullerene Plating",30465
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30474,1,"Nanowire Composites",30475
+29977,"Loki Defensive - Warfare Processor",954,1128,30245,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30464,1,"Metallofullerene Plating",30465
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30474,1,"Nanowire Composites",30475
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30002,1,"Fullerene Intercalated Sheets",30003
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129,30237,1,30470,1,"Neurovisual Output Analyzer",30471
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30464,1,"Metallofullerene Plating",30465
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30474,1,"Nanowire Composites",30475
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30002,1,"Fullerene Intercalated Sheets",30003
+29980,"Proteus Defensive - Nanobot Injector",954,1129,30238,1,30470,1,"Neurovisual Output Analyzer",30471
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30470,1,"Neurovisual Output Analyzer",30471
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30464,1,"Metallofullerene Plating",30465
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30474,1,"Nanowire Composites",30475
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29981,"Proteus Defensive - Augmented Plating",954,1129,30239,1,30002,1,"Fullerene Intercalated Sheets",30003
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30008,7,"Reinforced Metallofullerene Alloys",30009
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30002,1,"Fullerene Intercalated Sheets",30003
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30470,1,"Neurovisual Output Analyzer",30471
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30464,1,"Metallofullerene Plating",30465
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30474,1,"Nanowire Composites",30475
+29982,"Proteus Defensive - Warfare Processor",954,1129,30240,1,30476,1,"Fulleroferrocene Power Conduits",30477
+29984,Tengu,963,1140,29985,1,30464,15,"Metallofullerene Plating",30465
+29984,Tengu,963,1140,29985,1,30476,2,"Fulleroferrocene Power Conduits",30477
+29984,Tengu,963,1140,29985,1,29996,2,"Emergent Neurovisual Interface",29997
+29984,Tengu,963,1140,29985,1,11478,15,"R.A.M.- Starship Tech",11890
+29984,Tengu,963,1140,29985,1,30470,1,"Neurovisual Output Analyzer",30471
+29984,Tengu,963,1140,29985,1,30474,20,"Nanowire Composites",30475
+29984,Tengu,963,1140,29985,1,30002,7,"Fullerene Intercalated Sheets",30003
+29986,Legion,963,1139,29987,1,30476,2,"Fulleroferrocene Power Conduits",30477
+29986,Legion,963,1139,29987,1,29996,2,"Emergent Neurovisual Interface",29997
+29986,Legion,963,1139,29987,1,11478,15,"R.A.M.- Starship Tech",11890
+29986,Legion,963,1139,29987,1,30470,1,"Neurovisual Output Analyzer",30471
+29986,Legion,963,1139,29987,1,30474,20,"Nanowire Composites",30475
+29986,Legion,963,1139,29987,1,30002,7,"Fullerene Intercalated Sheets",30003
+29986,Legion,963,1139,29987,1,30464,15,"Metallofullerene Plating",30465
+29988,Proteus,963,1141,29989,1,30470,1,"Neurovisual Output Analyzer",30471
+29988,Proteus,963,1141,29989,1,30474,20,"Nanowire Composites",30475
+29988,Proteus,963,1141,29989,1,30002,7,"Fullerene Intercalated Sheets",30003
+29988,Proteus,963,1141,29989,1,30464,15,"Metallofullerene Plating",30465
+29988,Proteus,963,1141,29989,1,30476,2,"Fulleroferrocene Power Conduits",30477
+29988,Proteus,963,1141,29989,1,29996,2,"Emergent Neurovisual Interface",29997
+29988,Proteus,963,1141,29989,1,11478,15,"R.A.M.- Starship Tech",11890
+29990,Loki,963,1142,29991,1,30474,20,"Nanowire Composites",30475
+29990,Loki,963,1142,29991,1,30002,7,"Fullerene Intercalated Sheets",30003
+29990,Loki,963,1142,29991,1,30464,15,"Metallofullerene Plating",30465
+29990,Loki,963,1142,29991,1,30476,2,"Fulleroferrocene Power Conduits",30477
+29990,Loki,963,1142,29991,1,29996,2,"Emergent Neurovisual Interface",29997
+29990,Loki,963,1142,29991,1,11478,15,"R.A.M.- Starship Tech",11890
+29990,Loki,963,1142,29991,1,30470,1,"Neurovisual Output Analyzer",30471
+29992,"Optimized Nano-engines",964,1147,29993,1,30304,11,"PPD Fullerene Fibers",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30307,7,"Lanthanum Metallofullerene",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30254,10,"Electromechanical Hull Sheeting",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30309,7,"Graphene Nanoribbons",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30018,4,"Fused Nanomechanical Engines",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30021,3,"Modified Fluid Router",NULL
+29992,"Optimized Nano-engines",964,1147,29993,1,30019,2,"Powdered C-540 Graphite",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30309,7,"Graphene Nanoribbons",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30019,2,"Powdered C-540 Graphite",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30021,3,"Modified Fluid Router",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30254,10,"Electromechanical Hull Sheeting",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30305,11,"Fullerene Intercalated Graphite",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30308,22,"Scandium Metallofullerene",NULL
+29994,"Warfare Computation Core",964,1147,29995,1,30248,4,"Emergent Combat Analyzer",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30307,50,"Lanthanum Metallofullerene",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30252,7,"Thermoelectric Catalysts",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30269,7,"Defensive Control Node",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30271,7,"Emergent Combat Intelligence",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30304,6,"PPD Fullerene Fibers",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30311,310,"C3-FTM Acid",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30268,7,"Jump Drive Control Nexus",NULL
+29996,"Emergent Neurovisual Interface",964,1147,29997,1,30270,7,"Central System Controller",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30303,33,Fulleroferrocene,NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30305,2,"Fullerene Intercalated Graphite",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30021,6,"Modified Fluid Router",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30259,2,"Melted Nanoribbons",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30304,6,"PPD Fullerene Fibers",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30019,4,"Powdered C-540 Graphite",NULL
+30002,"Fullerene Intercalated Sheets",964,1147,30003,1,30251,55,"Neurovisual Input Matrix",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30019,2,"Powdered C-540 Graphite",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30021,3,"Modified Fluid Router",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30254,10,"Electromechanical Hull Sheeting",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30305,11,"Fullerene Intercalated Graphite",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30308,22,"Scandium Metallofullerene",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30022,4,"Heuristic Selfassemblers",NULL
+30008,"Reinforced Metallofullerene Alloys",964,1147,30009,1,30309,7,"Graphene Nanoribbons",NULL
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30464,1,"Metallofullerene Plating",30465
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30002,1,"Fullerene Intercalated Sheets",30003
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30466,7,"Electromechanical Interface Nexus",30467
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30474,1,"Nanowire Composites",30475
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611,30037,1,30470,1,"Neurovisual Output Analyzer",30471
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30474,1,"Nanowire Composites",30475
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30470,1,"Neurovisual Output Analyzer",30471
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30464,1,"Metallofullerene Plating",30465
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30002,1,"Fullerene Intercalated Sheets",30003
+30038,"Legion Electronics - Tactical Targeting Network",955,1611,30039,1,30466,7,"Electromechanical Interface Nexus",30467
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30474,1,"Nanowire Composites",30475
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30470,1,"Neurovisual Output Analyzer",30471
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30464,1,"Metallofullerene Plating",30465
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30002,1,"Fullerene Intercalated Sheets",30003
+30040,"Legion Electronics - Dissolution Sequencer",955,1611,30041,1,30466,7,"Electromechanical Interface Nexus",30467
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30474,1,"Nanowire Composites",30475
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30470,1,"Neurovisual Output Analyzer",30471
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30464,1,"Metallofullerene Plating",30465
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30002,1,"Fullerene Intercalated Sheets",30003
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611,30043,1,30466,7,"Electromechanical Interface Nexus",30467
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30464,1,"Metallofullerene Plating",30465
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30002,1,"Fullerene Intercalated Sheets",30003
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30466,7,"Electromechanical Interface Nexus",30467
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30474,1,"Nanowire Composites",30475
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630,30047,1,30470,1,"Neurovisual Output Analyzer",30471
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30464,1,"Metallofullerene Plating",30465
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30002,1,"Fullerene Intercalated Sheets",30003
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30466,7,"Electromechanical Interface Nexus",30467
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30474,1,"Nanowire Composites",30475
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630,30049,1,30470,1,"Neurovisual Output Analyzer",30471
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30470,1,"Neurovisual Output Analyzer",30471
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30464,1,"Metallofullerene Plating",30465
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30002,1,"Fullerene Intercalated Sheets",30003
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30466,7,"Electromechanical Interface Nexus",30467
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630,30051,1,30474,1,"Nanowire Composites",30475
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30474,1,"Nanowire Composites",30475
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30470,1,"Neurovisual Output Analyzer",30471
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30464,1,"Metallofullerene Plating",30465
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30002,1,"Fullerene Intercalated Sheets",30003
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630,30053,1,30466,7,"Electromechanical Interface Nexus",30467
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30474,1,"Nanowire Composites",30475
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30470,1,"Neurovisual Output Analyzer",30471
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30464,1,"Metallofullerene Plating",30465
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30002,1,"Fullerene Intercalated Sheets",30003
+30056,"Proteus Electronics - Friction Extension Processor",955,1628,30057,1,30466,7,"Electromechanical Interface Nexus",30467
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30002,1,"Fullerene Intercalated Sheets",30003
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30466,7,"Electromechanical Interface Nexus",30467
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30474,1,"Nanowire Composites",30475
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30470,1,"Neurovisual Output Analyzer",30471
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628,30059,1,30464,1,"Metallofullerene Plating",30465
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30464,1,"Metallofullerene Plating",30465
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30002,1,"Fullerene Intercalated Sheets",30003
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30466,7,"Electromechanical Interface Nexus",30467
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30474,1,"Nanowire Composites",30475
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628,30061,1,30470,1,"Neurovisual Output Analyzer",30471
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30470,1,"Neurovisual Output Analyzer",30471
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30464,1,"Metallofullerene Plating",30465
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30002,1,"Fullerene Intercalated Sheets",30003
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30466,7,"Electromechanical Interface Nexus",30467
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30474,1,"Nanowire Composites",30475
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628,30063,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30474,1,"Nanowire Composites",30475
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30470,1,"Neurovisual Output Analyzer",30471
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30464,1,"Metallofullerene Plating",30465
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30002,1,"Fullerene Intercalated Sheets",30003
+30066,"Loki Electronics - Immobility Drivers",955,1629,30067,1,30466,7,"Electromechanical Interface Nexus",30467
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30002,1,"Fullerene Intercalated Sheets",30003
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30466,7,"Electromechanical Interface Nexus",30467
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30474,1,"Nanowire Composites",30475
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30464,1,"Metallofullerene Plating",30465
+30068,"Loki Electronics - Tactical Targeting Network",955,1629,30069,1,30470,1,"Neurovisual Output Analyzer",30471
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30464,1,"Metallofullerene Plating",30465
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30002,1,"Fullerene Intercalated Sheets",30003
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30466,7,"Electromechanical Interface Nexus",30467
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30474,1,"Nanowire Composites",30475
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30070,"Loki Electronics - Dissolution Sequencer",955,1629,30071,1,30470,1,"Neurovisual Output Analyzer",30471
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30470,1,"Neurovisual Output Analyzer",30471
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30464,1,"Metallofullerene Plating",30465
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30002,1,"Fullerene Intercalated Sheets",30003
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30466,7,"Electromechanical Interface Nexus",30467
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629,30073,1,30474,1,"Nanowire Composites",30475
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30002,1,"Fullerene Intercalated Sheets",30003
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30474,1,"Nanowire Composites",30475
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30470,1,"Neurovisual Output Analyzer",30471
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30464,1,"Metallofullerene Plating",30465
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30076,"Legion Propulsion - Chassis Optimization",957,1134,30077,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30002,1,"Fullerene Intercalated Sheets",30003
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30474,1,"Nanowire Composites",30475
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30470,1,"Neurovisual Output Analyzer",30471
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30464,1,"Metallofullerene Plating",30465
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30078,"Legion Propulsion - Fuel Catalyst",957,1134,30079,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30464,1,"Metallofullerene Plating",30465
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30002,1,"Fullerene Intercalated Sheets",30003
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30474,1,"Nanowire Composites",30475
+30080,"Legion Propulsion - Wake Limiter",957,1134,30081,1,30470,1,"Neurovisual Output Analyzer",30471
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30464,1,"Metallofullerene Plating",30465
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30002,1,"Fullerene Intercalated Sheets",30003
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30474,1,"Nanowire Composites",30475
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134,30083,1,30470,1,"Neurovisual Output Analyzer",30471
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30470,1,"Neurovisual Output Analyzer",30471
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30464,1,"Metallofullerene Plating",30465
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30002,1,"Fullerene Intercalated Sheets",30003
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135,30087,1,30474,1,"Nanowire Composites",30475
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30002,1,"Fullerene Intercalated Sheets",30003
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30474,1,"Nanowire Composites",30475
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30470,1,"Neurovisual Output Analyzer",30471
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30464,1,"Metallofullerene Plating",30465
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135,30089,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30002,1,"Fullerene Intercalated Sheets",30003
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30474,1,"Nanowire Composites",30475
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30470,1,"Neurovisual Output Analyzer",30471
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30464,1,"Metallofullerene Plating",30465
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135,30091,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30002,1,"Fullerene Intercalated Sheets",30003
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30474,1,"Nanowire Composites",30475
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30470,1,"Neurovisual Output Analyzer",30471
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135,30093,1,30464,1,"Metallofullerene Plating",30465
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30464,1,"Metallofullerene Plating",30465
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30002,1,"Fullerene Intercalated Sheets",30003
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30474,1,"Nanowire Composites",30475
+30096,"Proteus Propulsion - Wake Limiter",957,1136,30097,1,30470,1,"Neurovisual Output Analyzer",30471
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30464,1,"Metallofullerene Plating",30465
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30002,1,"Fullerene Intercalated Sheets",30003
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30474,1,"Nanowire Composites",30475
+30098,"Proteus Propulsion - Localized Injectors",957,1136,30099,1,30470,1,"Neurovisual Output Analyzer",30471
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30002,1,"Fullerene Intercalated Sheets",30003
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30474,1,"Nanowire Composites",30475
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30470,1,"Neurovisual Output Analyzer",30471
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30464,1,"Metallofullerene Plating",30465
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136,30101,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30002,1,"Fullerene Intercalated Sheets",30003
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30474,1,"Nanowire Composites",30475
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30470,1,"Neurovisual Output Analyzer",30471
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30464,1,"Metallofullerene Plating",30465
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136,30103,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30002,1,"Fullerene Intercalated Sheets",30003
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30474,1,"Nanowire Composites",30475
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30470,1,"Neurovisual Output Analyzer",30471
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30464,1,"Metallofullerene Plating",30465
+30106,"Loki Propulsion - Chassis Optimization",957,1137,30107,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30464,1,"Metallofullerene Plating",30465
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30002,1,"Fullerene Intercalated Sheets",30003
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30474,1,"Nanowire Composites",30475
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137,30109,1,30470,1,"Neurovisual Output Analyzer",30471
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30464,1,"Metallofullerene Plating",30465
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30002,1,"Fullerene Intercalated Sheets",30003
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30474,1,"Nanowire Composites",30475
+30110,"Loki Propulsion - Fuel Catalyst",957,1137,30111,1,30470,1,"Neurovisual Output Analyzer",30471
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30002,1,"Fullerene Intercalated Sheets",30003
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30474,1,"Nanowire Composites",30475
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30470,1,"Neurovisual Output Analyzer",30471
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30464,1,"Metallofullerene Plating",30465
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137,30113,1,30478,7,"Reconfigured Subspace Calibrator",30479
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,29994,7,"Warfare Computation Core",29995
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,30002,1,"Fullerene Intercalated Sheets",30003
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,30474,1,"Nanowire Composites",30475
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,30464,1,"Metallofullerene Plating",30465
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130,30392,1,30470,1,"Neurovisual Output Analyzer",30471
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,29994,7,"Warfare Computation Core",29995
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,30002,1,"Fullerene Intercalated Sheets",30003
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,30474,1,"Nanowire Composites",30475
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,30464,1,"Metallofullerene Plating",30465
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30118,"Legion Offensive - Assault Optimization",956,1130,30393,1,30470,1,"Neurovisual Output Analyzer",30471
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,30464,1,"Metallofullerene Plating",30465
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,30470,1,"Neurovisual Output Analyzer",30471
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,29994,7,"Warfare Computation Core",29995
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,30002,1,"Fullerene Intercalated Sheets",30003
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130,30394,1,30474,1,"Nanowire Composites",30475
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,30464,1,"Metallofullerene Plating",30465
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,30470,1,"Neurovisual Output Analyzer",30471
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,29994,7,"Warfare Computation Core",29995
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,30002,1,"Fullerene Intercalated Sheets",30003
+30120,"Legion Offensive - Covert Reconfiguration",956,1130,30395,1,30474,1,"Nanowire Composites",30475
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,30002,1,"Fullerene Intercalated Sheets",30003
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,30474,1,"Nanowire Composites",30475
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,30464,1,"Metallofullerene Plating",30465
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,30470,1,"Neurovisual Output Analyzer",30471
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131,30397,1,29994,7,"Warfare Computation Core",29995
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,29994,7,"Warfare Computation Core",29995
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,30002,1,"Fullerene Intercalated Sheets",30003
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,30474,1,"Nanowire Composites",30475
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,30464,1,"Metallofullerene Plating",30465
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131,30398,1,30470,1,"Neurovisual Output Analyzer",30471
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,29994,7,"Warfare Computation Core",29995
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,30002,1,"Fullerene Intercalated Sheets",30003
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,30474,1,"Nanowire Composites",30475
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,30464,1,"Metallofullerene Plating",30465
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131,30399,1,30470,1,"Neurovisual Output Analyzer",30471
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,30470,1,"Neurovisual Output Analyzer",30471
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,29994,7,"Warfare Computation Core",29995
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,30002,1,"Fullerene Intercalated Sheets",30003
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,30474,1,"Nanowire Composites",30475
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131,30400,1,30464,1,"Metallofullerene Plating",30465
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,30464,1,"Metallofullerene Plating",30465
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,30470,1,"Neurovisual Output Analyzer",30471
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,29994,7,"Warfare Computation Core",29995
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,30002,1,"Fullerene Intercalated Sheets",30003
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132,30402,1,30474,1,"Nanowire Composites",30475
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,30474,1,"Nanowire Composites",30475
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,30464,1,"Metallofullerene Plating",30465
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,30470,1,"Neurovisual Output Analyzer",30471
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,29994,7,"Warfare Computation Core",29995
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132,30403,1,30002,1,"Fullerene Intercalated Sheets",30003
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,29994,7,"Warfare Computation Core",29995
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,30002,1,"Fullerene Intercalated Sheets",30003
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,30474,1,"Nanowire Composites",30475
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,30464,1,"Metallofullerene Plating",30465
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132,30404,1,30470,1,"Neurovisual Output Analyzer",30471
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,29994,7,"Warfare Computation Core",29995
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,30002,1,"Fullerene Intercalated Sheets",30003
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,30474,1,"Nanowire Composites",30475
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,30464,1,"Metallofullerene Plating",30465
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132,30405,1,30470,1,"Neurovisual Output Analyzer",30471
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,30470,1,"Neurovisual Output Analyzer",30471
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,29994,7,"Warfare Computation Core",29995
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,30002,1,"Fullerene Intercalated Sheets",30003
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,30474,1,"Nanowire Composites",30475
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,30464,1,"Metallofullerene Plating",30465
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133,30407,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,30464,1,"Metallofullerene Plating",30465
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,30470,1,"Neurovisual Output Analyzer",30471
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,29994,7,"Warfare Computation Core",29995
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,30002,1,"Fullerene Intercalated Sheets",30003
+30133,"Loki Offensive - Projectile Scoping Array",956,1133,30408,1,30474,1,"Nanowire Composites",30475
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,30464,1,"Metallofullerene Plating",30465
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,30470,1,"Neurovisual Output Analyzer",30471
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,29994,7,"Warfare Computation Core",29995
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,30002,1,"Fullerene Intercalated Sheets",30003
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133,30409,1,30474,1,"Nanowire Composites",30475
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,29994,7,"Warfare Computation Core",29995
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,30002,1,"Fullerene Intercalated Sheets",30003
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,30474,1,"Nanowire Composites",30475
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,30464,1,"Metallofullerene Plating",30465
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30135,"Loki Offensive - Covert Reconfiguration",956,1133,30410,1,30470,1,"Neurovisual Output Analyzer",30471
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,30464,1,"Metallofullerene Plating",30465
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,30470,1,"Neurovisual Output Analyzer",30471
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,29992,7,"Optimized Nano-engines",29993
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,30002,1,"Fullerene Intercalated Sheets",30003
+30139,"Tengu Engineering - Power Core Multiplier",958,1123,30140,1,30474,1,"Nanowire Composites",30475
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,30474,1,"Nanowire Composites",30475
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,30464,1,"Metallofullerene Plating",30465
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,30470,1,"Neurovisual Output Analyzer",30471
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,29992,7,"Optimized Nano-engines",29993
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123,30142,1,30002,1,"Fullerene Intercalated Sheets",30003
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,29992,7,"Optimized Nano-engines",29993
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,30002,1,"Fullerene Intercalated Sheets",30003
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,30474,1,"Nanowire Composites",30475
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,30464,1,"Metallofullerene Plating",30465
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123,30144,1,30470,1,"Neurovisual Output Analyzer",30471
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,29992,7,"Optimized Nano-engines",29993
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,30002,1,"Fullerene Intercalated Sheets",30003
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,30474,1,"Nanowire Composites",30475
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,30464,1,"Metallofullerene Plating",30465
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123,30146,1,30470,1,"Neurovisual Output Analyzer",30471
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,30470,1,"Neurovisual Output Analyzer",30471
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,29992,7,"Optimized Nano-engines",29993
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,30002,1,"Fullerene Intercalated Sheets",30003
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,30474,1,"Nanowire Composites",30475
+30149,"Proteus Engineering - Power Core Multiplier",958,1124,30150,1,30464,1,"Metallofullerene Plating",30465
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,30464,1,"Metallofullerene Plating",30465
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,30470,1,"Neurovisual Output Analyzer",30471
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,29992,7,"Optimized Nano-engines",29993
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,30002,1,"Fullerene Intercalated Sheets",30003
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124,30152,1,30474,1,"Nanowire Composites",30475
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,30464,1,"Metallofullerene Plating",30465
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,30470,1,"Neurovisual Output Analyzer",30471
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,29992,7,"Optimized Nano-engines",29993
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,30002,1,"Fullerene Intercalated Sheets",30003
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124,30154,1,30474,1,"Nanowire Composites",30475
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,29992,7,"Optimized Nano-engines",29993
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,30002,1,"Fullerene Intercalated Sheets",30003
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,30474,1,"Nanowire Composites",30475
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,30464,1,"Metallofullerene Plating",30465
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124,30156,1,30470,1,"Neurovisual Output Analyzer",30471
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,29992,7,"Optimized Nano-engines",29993
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,30002,1,"Fullerene Intercalated Sheets",30003
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,30474,1,"Nanowire Composites",30475
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,30464,1,"Metallofullerene Plating",30465
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30159,"Loki Engineering - Power Core Multiplier",958,1125,30160,1,30470,1,"Neurovisual Output Analyzer",30471
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,30470,1,"Neurovisual Output Analyzer",30471
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,29992,7,"Optimized Nano-engines",29993
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,30002,1,"Fullerene Intercalated Sheets",30003
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,30474,1,"Nanowire Composites",30475
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,30464,1,"Metallofullerene Plating",30465
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125,30162,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,30464,1,"Metallofullerene Plating",30465
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,30470,1,"Neurovisual Output Analyzer",30471
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,29992,7,"Optimized Nano-engines",29993
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,30002,1,"Fullerene Intercalated Sheets",30003
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125,30164,1,30474,1,"Nanowire Composites",30475
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,30464,1,"Metallofullerene Plating",30465
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,30470,1,"Neurovisual Output Analyzer",30471
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,29992,7,"Optimized Nano-engines",29993
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,30002,1,"Fullerene Intercalated Sheets",30003
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125,30166,1,30474,1,"Nanowire Composites",30475
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,30002,1,"Fullerene Intercalated Sheets",30003
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,30474,1,"Nanowire Composites",30475
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,30464,1,"Metallofullerene Plating",30465
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,30470,1,"Neurovisual Output Analyzer",30471
+30169,"Legion Engineering - Power Core Multiplier",958,1122,30170,1,29992,7,"Optimized Nano-engines",29993
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,29992,7,"Optimized Nano-engines",29993
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,30002,1,"Fullerene Intercalated Sheets",30003
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,30474,1,"Nanowire Composites",30475
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,30464,1,"Metallofullerene Plating",30465
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122,30172,1,30470,1,"Neurovisual Output Analyzer",30471
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,30470,1,"Neurovisual Output Analyzer",30471
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,29992,7,"Optimized Nano-engines",29993
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,30002,1,"Fullerene Intercalated Sheets",30003
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,30474,1,"Nanowire Composites",30475
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,30464,1,"Metallofullerene Plating",30465
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122,30174,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,30464,1,"Metallofullerene Plating",30465
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,30476,1,"Fulleroferrocene Power Conduits",30477
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,30470,1,"Neurovisual Output Analyzer",30471
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,29992,7,"Optimized Nano-engines",29993
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,30002,1,"Fullerene Intercalated Sheets",30003
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122,30176,1,30474,1,"Nanowire Composites",30475
+30464,"Metallofullerene Plating",964,1147,30465,1,30021,4,"Modified Fluid Router",NULL
+30464,"Metallofullerene Plating",964,1147,30465,1,30303,17,Fulleroferrocene,NULL
+30464,"Metallofullerene Plating",964,1147,30465,1,30304,4,"PPD Fullerene Fibers",NULL
+30464,"Metallofullerene Plating",964,1147,30465,1,30254,6,"Electromechanical Hull Sheeting",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30309,7,"Graphene Nanoribbons",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30307,7,"Lanthanum Metallofullerene",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30024,4,"Cartesian Temporal Coordinator",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30019,2,"Powdered C-540 Graphite",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30304,11,"PPD Fullerene Fibers",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30021,3,"Modified Fluid Router",NULL
+30466,"Electromechanical Interface Nexus",964,1147,30467,1,30254,10,"Electromechanical Hull Sheeting",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30308,44,"Scandium Metallofullerene",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30310,222,"Carbon-86 Epoxy Resin",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30259,4,"Melted Nanoribbons",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30019,4,"Powdered C-540 Graphite",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30021,4,"Modified Fluid Router",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30254,11,"Electromechanical Hull Sheeting",NULL
+30470,"Neurovisual Output Analyzer",964,1147,30471,1,30303,56,Fulleroferrocene,NULL
+30474,"Nanowire Composites",964,1147,30475,1,30304,2,"PPD Fullerene Fibers",NULL
+30474,"Nanowire Composites",964,1147,30475,1,30254,3,"Electromechanical Hull Sheeting",NULL
+30474,"Nanowire Composites",964,1147,30475,1,30021,3,"Modified Fluid Router",NULL
+30474,"Nanowire Composites",964,1147,30475,1,30303,11,Fulleroferrocene,NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30308,44,"Scandium Metallofullerene",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30251,4,"Neurovisual Input Matrix",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30303,28,Fulleroferrocene,NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30304,11,"PPD Fullerene Fibers",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30019,3,"Powdered C-540 Graphite",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30021,4,"Modified Fluid Router",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30254,6,"Electromechanical Hull Sheeting",NULL
+30476,"Fulleroferrocene Power Conduits",964,1147,30477,1,30306,60,Methanofullerene,NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30021,3,"Modified Fluid Router",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30309,7,"Graphene Nanoribbons",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30019,2,"Powdered C-540 Graphite",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30307,7,"Lanthanum Metallofullerene",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30254,10,"Electromechanical Hull Sheeting",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30258,4,"Resonance Calibration Matrix",NULL
+30478,"Reconfigured Subspace Calibrator",964,1147,30479,1,30303,11,Fulleroferrocene,NULL
+34317,Confessor,1305,1952,34318,1,30478,2,"Reconfigured Subspace Calibrator",30479
+34317,Confessor,1305,1952,34318,1,29994,2,"Warfare Computation Core",29995
+34317,Confessor,1305,1952,34318,1,30466,2,"Electromechanical Interface Nexus",30467
+34317,Confessor,1305,1952,34318,1,30476,2,"Fulleroferrocene Power Conduits",30477
+34317,Confessor,1305,1952,34318,1,29992,2,"Optimized Nano-engines",29993
+34317,Confessor,1305,1952,34318,1,34396,3,"Self-Assembling Nanolattice",34397
+34317,Confessor,1305,1952,34318,1,11478,10,"R.A.M.- Starship Tech",11890
+34317,Confessor,1305,1952,34318,1,30002,2,"Fullerene Intercalated Sheets",30003
+34317,Confessor,1305,1952,34318,1,30464,8,"Metallofullerene Plating",30465
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30252,1,"Thermoelectric Catalysts",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30311,5,"C3-FTM Acid",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30270,1,"Central System Controller",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30271,1,"Emergent Combat Intelligence",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30309,15,"Graphene Nanoribbons",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30268,1,"Jump Drive Control Nexus",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30251,15,"Neurovisual Input Matrix",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30310,13,"Carbon-86 Epoxy Resin",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30269,1,"Defensive Control Node",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30303,300,Fulleroferrocene,NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30022,2,"Heuristic Selfassemblers",NULL
+34396,"Self-Assembling Nanolattice",964,1147,34397,1,30307,40,"Lanthanum Metallofullerene",NULL
+34562,Svipul,1305,1953,34563,1,30002,2,"Fullerene Intercalated Sheets",30003
+34562,Svipul,1305,1953,34563,1,30464,8,"Metallofullerene Plating",30465
+34562,Svipul,1305,1953,34563,1,30478,2,"Reconfigured Subspace Calibrator",30479
+34562,Svipul,1305,1953,34563,1,29994,2,"Warfare Computation Core",29995
+34562,Svipul,1305,1953,34563,1,30466,2,"Electromechanical Interface Nexus",30467
+34562,Svipul,1305,1953,34563,1,30476,2,"Fulleroferrocene Power Conduits",30477
+34562,Svipul,1305,1953,34563,1,29992,2,"Optimized Nano-engines",29993
+34562,Svipul,1305,1953,34563,1,34396,3,"Self-Assembling Nanolattice",34397
+34562,Svipul,1305,1953,34563,1,11478,10,"R.A.M.- Starship Tech",11890
+34828,Jackdaw,1305,2021,34829,1,29994,2,"Warfare Computation Core",29995
+34828,Jackdaw,1305,2021,34829,1,30466,2,"Electromechanical Interface Nexus",30467
+34828,Jackdaw,1305,2021,34829,1,30476,2,"Fulleroferrocene Power Conduits",30477
+34828,Jackdaw,1305,2021,34829,1,29992,2,"Optimized Nano-engines",29993
+34828,Jackdaw,1305,2021,34829,1,34396,3,"Self-Assembling Nanolattice",34397
+34828,Jackdaw,1305,2021,34829,1,11478,10,"R.A.M.- Starship Tech",11890
+34828,Jackdaw,1305,2021,34829,1,30002,2,"Fullerene Intercalated Sheets",30003
+34828,Jackdaw,1305,2021,34829,1,30464,8,"Metallofullerene Plating",30465
+34828,Jackdaw,1305,2021,34829,1,30478,2,"Reconfigured Subspace Calibrator",30479
+35683,Hecate,1305,2034,35684,1,29992,2,"Optimized Nano-engines",29993
+35683,Hecate,1305,2034,35684,1,30002,2,"Fullerene Intercalated Sheets",30003
+35683,Hecate,1305,2034,35684,1,30476,2,"Fulleroferrocene Power Conduits",30477
+35683,Hecate,1305,2034,35684,1,34396,3,"Self-Assembling Nanolattice",34397
+35683,Hecate,1305,2034,35684,1,11478,10,"R.A.M.- Starship Tech",11890
+35683,Hecate,1305,2034,35684,1,29994,2,"Warfare Computation Core",29995
+35683,Hecate,1305,2034,35684,1,30466,2,"Electromechanical Interface Nexus",30467
+35683,Hecate,1305,2034,35684,1,30478,2,"Reconfigured Subspace Calibrator",30479
+35683,Hecate,1305,2034,35684,1,30464,8,"Metallofullerene Plating",30465

@@ -1,0 +1,203 @@
+typeID,typeName,groupID,marketGroupID
+34,Tritanium,18,1857
+35,Pyerite,18,1857
+36,Mexallon,18,1857
+37,Isogen,18,1857
+38,Nocxium,18,1857
+39,Zydrine,18,1857
+40,Megacyte,18,1857
+11399,Morphite,18,1857
+11475,"R.A.M.- Armor/Hull Tech",332,1908
+11476,"R.A.M.- Ammunition Tech",332,1908
+11478,"R.A.M.- Starship Tech",332,1908
+11481,"R.A.M.- Robotics",332,1908
+11482,"R.A.M.- Energy Tech",332,1908
+11483,"R.A.M.- Electronics",332,1908
+11484,"R.A.M.- Shield Tech",332,1908
+11485,"R.A.M.- Cybernetics",332,1908
+11486,"R.A.M.- Weapon Tech",332,1908
+11496,"Datacore - Defensive Subsystems Engineering",333,1880
+20114,"Datacore - Propulsion Subsystems Engineering",333,1880
+20115,"Datacore - Engineering Subsystems Engineering",333,1880
+20116,"Datacore - Electronic Subsystems Engineering",333,1880
+20171,"Datacore - Hydromagnetic Physics",333,1880
+20172,"Datacore - Minmatar Starship Engineering",333,1880
+20410,"Datacore - Gallentean Starship Engineering",333,1880
+20411,"Datacore - High Energy Physics",333,1880
+20412,"Datacore - Plasma Physics",333,1880
+20413,"Datacore - Laser Physics",333,1880
+20414,"Datacore - Quantum Physics",333,1880
+20415,"Datacore - Molecular Engineering",333,1880
+20416,"Datacore - Nanite Engineering",333,1880
+20417,"Datacore - Electromagnetic Physics",333,1880
+20418,"Datacore - Electronic Engineering",333,1880
+20419,"Datacore - Graviton Physics",333,1880
+20420,"Datacore - Rocket Science",333,1880
+20421,"Datacore - Amarrian Starship Engineering",333,1880
+20423,"Datacore - Nuclear Physics",333,1880
+20424,"Datacore - Mechanical Engineering",333,1880
+20425,"Datacore - Offensive Subsystems Engineering",333,1880
+25887,"Datacore - Caldari Starship Engineering",333,1880
+29964,"Legion Defensive - Adaptive Augmenter",954,1126
+29965,"Legion Defensive - Nanobot Injector",954,1126
+29966,"Legion Defensive - Augmented Plating",954,1126
+29967,"Legion Defensive - Warfare Processor",954,1126
+29969,"Tengu Defensive - Adaptive Shielding",954,1127
+29970,"Tengu Defensive - Amplification Node",954,1127
+29971,"Tengu Defensive - Supplemental Screening",954,1127
+29972,"Tengu Defensive - Warfare Processor",954,1127
+29974,"Loki Defensive - Adaptive Shielding",954,1128
+29975,"Loki Defensive - Adaptive Augmenter",954,1128
+29976,"Loki Defensive - Amplification Node",954,1128
+29977,"Loki Defensive - Warfare Processor",954,1128
+29979,"Proteus Defensive - Adaptive Augmenter",954,1129
+29980,"Proteus Defensive - Nanobot Injector",954,1129
+29981,"Proteus Defensive - Augmented Plating",954,1129
+29982,"Proteus Defensive - Warfare Processor",954,1129
+29984,Tengu,963,1140
+29986,Legion,963,1139
+29988,Proteus,963,1141
+29990,Loki,963,1142
+29992,"Optimized Nano-engines",964,1147
+29994,"Warfare Computation Core",964,1147
+29996,"Emergent Neurovisual Interface",964,1147
+30002,"Fullerene Intercalated Sheets",964,1147
+30008,"Reinforced Metallofullerene Alloys",964,1147
+30018,"Fused Nanomechanical Engines",966,1862
+30019,"Powdered C-540 Graphite",966,1862
+30021,"Modified Fluid Router",966,1862
+30022,"Heuristic Selfassemblers",966,1862
+30024,"Cartesian Temporal Coordinator",966,1862
+30036,"Legion Electronics - Energy Parasitic Complex",955,1611
+30038,"Legion Electronics - Tactical Targeting Network",955,1611
+30040,"Legion Electronics - Dissolution Sequencer",955,1611
+30042,"Legion Electronics - Emergent Locus Analyzer",955,1611
+30046,"Tengu Electronics - Obfuscation Manifold",955,1630
+30048,"Tengu Electronics - CPU Efficiency Gate",955,1630
+30050,"Tengu Electronics - Dissolution Sequencer",955,1630
+30052,"Tengu Electronics - Emergent Locus Analyzer",955,1630
+30056,"Proteus Electronics - Friction Extension Processor",955,1628
+30058,"Proteus Electronics - CPU Efficiency Gate",955,1628
+30060,"Proteus Electronics - Dissolution Sequencer",955,1628
+30062,"Proteus Electronics - Emergent Locus Analyzer",955,1628
+30066,"Loki Electronics - Immobility Drivers",955,1629
+30068,"Loki Electronics - Tactical Targeting Network",955,1629
+30070,"Loki Electronics - Dissolution Sequencer",955,1629
+30072,"Loki Electronics - Emergent Locus Analyzer",955,1629
+30076,"Legion Propulsion - Chassis Optimization",957,1134
+30078,"Legion Propulsion - Fuel Catalyst",957,1134
+30080,"Legion Propulsion - Wake Limiter",957,1134
+30082,"Legion Propulsion - Interdiction Nullifier",957,1134
+30086,"Tengu Propulsion - Intercalated Nanofibers",957,1135
+30088,"Tengu Propulsion - Gravitational Capacitor",957,1135
+30090,"Tengu Propulsion - Fuel Catalyst",957,1135
+30092,"Tengu Propulsion - Interdiction Nullifier",957,1135
+30096,"Proteus Propulsion - Wake Limiter",957,1136
+30098,"Proteus Propulsion - Localized Injectors",957,1136
+30100,"Proteus Propulsion - Gravitational Capacitor",957,1136
+30102,"Proteus Propulsion - Interdiction Nullifier",957,1136
+30106,"Loki Propulsion - Chassis Optimization",957,1137
+30108,"Loki Propulsion - Intercalated Nanofibers",957,1137
+30110,"Loki Propulsion - Fuel Catalyst",957,1137
+30112,"Loki Propulsion - Interdiction Nullifier",957,1137
+30117,"Legion Offensive - Drone Synthesis Projector",956,1130
+30118,"Legion Offensive - Assault Optimization",956,1130
+30119,"Legion Offensive - Liquid Crystal Magnifiers",956,1130
+30120,"Legion Offensive - Covert Reconfiguration",956,1130
+30122,"Tengu Offensive - Accelerated Ejection Bay",956,1131
+30123,"Tengu Offensive - Rifling Launcher Pattern",956,1131
+30124,"Tengu Offensive - Magnetic Infusion Basin",956,1131
+30125,"Tengu Offensive - Covert Reconfiguration",956,1131
+30127,"Proteus Offensive - Dissonic Encoding Platform",956,1132
+30128,"Proteus Offensive - Hybrid Propulsion Armature",956,1132
+30129,"Proteus Offensive - Drone Synthesis Projector",956,1132
+30130,"Proteus Offensive - Covert Reconfiguration",956,1132
+30132,"Loki Offensive - Turret Concurrence Registry",956,1133
+30133,"Loki Offensive - Projectile Scoping Array",956,1133
+30134,"Loki Offensive - Hardpoint Efficiency Configuration",956,1133
+30135,"Loki Offensive - Covert Reconfiguration",956,1133
+30139,"Tengu Engineering - Power Core Multiplier",958,1123
+30141,"Tengu Engineering - Augmented Capacitor Reservoir",958,1123
+30143,"Tengu Engineering - Capacitor Regeneration Matrix",958,1123
+30145,"Tengu Engineering - Supplemental Coolant Injector",958,1123
+30149,"Proteus Engineering - Power Core Multiplier",958,1124
+30151,"Proteus Engineering - Augmented Capacitor Reservoir",958,1124
+30153,"Proteus Engineering - Capacitor Regeneration Matrix",958,1124
+30155,"Proteus Engineering - Supplemental Coolant Injector",958,1124
+30159,"Loki Engineering - Power Core Multiplier",958,1125
+30161,"Loki Engineering - Augmented Capacitor Reservoir",958,1125
+30163,"Loki Engineering - Capacitor Regeneration Matrix",958,1125
+30165,"Loki Engineering - Supplemental Coolant Injector",958,1125
+30169,"Legion Engineering - Power Core Multiplier",958,1122
+30171,"Legion Engineering - Augmented Capacitor Reservoir",958,1122
+30173,"Legion Engineering - Capacitor Regeneration Matrix",958,1122
+30175,"Legion Engineering - Supplemental Coolant Injector",958,1122
+30187,"Intact Thruster Sections",971,1909
+30248,"Emergent Combat Analyzer",966,1862
+30251,"Neurovisual Input Matrix",966,1862
+30252,"Thermoelectric Catalysts",966,1862
+30254,"Electromechanical Hull Sheeting",966,1862
+30258,"Resonance Calibration Matrix",966,1862
+30259,"Melted Nanoribbons",966,1862
+30268,"Jump Drive Control Nexus",966,1862
+30269,"Defensive Control Node",966,1862
+30270,"Central System Controller",966,1862
+30271,"Emergent Combat Intelligence",966,1862
+30303,Fulleroferrocene,974,1860
+30304,"PPD Fullerene Fibers",974,1860
+30305,"Fullerene Intercalated Graphite",974,1860
+30306,Methanofullerene,974,1860
+30307,"Lanthanum Metallofullerene",974,1860
+30308,"Scandium Metallofullerene",974,1860
+30309,"Graphene Nanoribbons",974,1860
+30310,"Carbon-86 Epoxy Resin",974,1860
+30311,"C3-FTM Acid",974,1860
+30370,Fullerite-C50,711,1859
+30371,Fullerite-C60,711,1859
+30372,Fullerite-C70,711,1859
+30373,Fullerite-C72,711,1859
+30374,Fullerite-C84,711,1859
+30375,Fullerite-C28,711,1859
+30376,Fullerite-C32,711,1859
+30377,Fullerite-C320,711,1859
+30378,Fullerite-C540,711,1859
+30464,"Metallofullerene Plating",964,1147
+30466,"Electromechanical Interface Nexus",964,1147
+30470,"Neurovisual Output Analyzer",964,1147
+30474,"Nanowire Composites",964,1147
+30476,"Fulleroferrocene Power Conduits",964,1147
+30478,"Reconfigured Subspace Calibrator",964,1147
+30558,"Malfunctioning Thruster Sections",971,1909
+30562,"Wrecked Thruster Sections",971,1909
+30582,"Intact Power Cores",992,1909
+30586,"Malfunctioning Power Cores",992,1909
+30588,"Wrecked Power Cores",992,1909
+30599,"Intact Electromechanical Component",990,1909
+30600,"Malfunctioning Electromechanical Component",990,1909
+30605,"Wrecked Electromechanical Component",990,1909
+30614,"Intact Armor Nanobot",993,1909
+30615,"Malfunctioning Armor Nanobot",993,1909
+30618,"Wrecked Armor Nanobot",993,1909
+30628,"Intact Weapon Subroutines",991,1909
+30632,"Malfunctioning Weapon Subroutines",991,1909
+30633,"Wrecked Weapon Subroutines",991,1909
+30752,"Intact Hull Section",997,1909
+30753,"Malfunctioning Hull Section",997,1909
+30754,"Wrecked Hull Section",997,1909
+33195,"Spatial Attunement Unit",334,1147
+34201,"Accelerant Decryptor",1304,1873
+34202,"Attainment Decryptor",1304,1873
+34203,"Augmentation Decryptor",1304,1873
+34204,"Parity Decryptor",1304,1873
+34205,"Process Decryptor",1304,1873
+34206,"Symmetry Decryptor",1304,1873
+34207,"Optimized Attainment Decryptor",1304,1873
+34208,"Optimized Augmentation Decryptor",1304,1873
+34317,Confessor,1305,1952
+34396,"Self-Assembling Nanolattice",964,1147
+34412,"Small Intact Hull Section",997,1909
+34414,"Small Malfunctioning Hull Section",997,1909
+34416,"Small Wrecked Hull Section",997,1909
+34562,Svipul,1305,1953
+34828,Jackdaw,1305,2021
+35683,Hecate,1305,2034
