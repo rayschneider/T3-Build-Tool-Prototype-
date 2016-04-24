@@ -10,10 +10,13 @@ dplyr
 
 Jsonlite
 
+# Overview
 Currently this tool calculates the profit for building various T3 items based on buying the materials for a given item at the current Jita Sell rate, then building and selling the item to the same Sell rate.
 
 Market data is from Eve-central API.
 Build fee data is derived from CREST and the Eve-industry APIs. 
+
+# Instructions
 
 To use this tool:
 
