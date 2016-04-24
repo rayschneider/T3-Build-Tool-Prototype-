@@ -118,10 +118,13 @@ rawprofit <- arrange(profit, desc(profit))
 # Margin over build ocst profit
 marginprofit <- arrange(profit, desc(margin))
 
-head(rawprofit, 10)
-head(marginprofit, 10)
+#Print the top 20 items by raw and marginal profit.
 
+printRawProfits <- function(x) {
+        return(head(rawprofit, x))
+}
 
-
-
+printMarginProfits <- function(x) {
+        return(head(marginprofit, x))
+}
 
